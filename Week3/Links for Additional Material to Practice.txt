@@ -1,0 +1,9 @@
+For and While Loops:
+https://pythontutorials.eu/basic/loops/
+
+Break, Continue, Pass Statemetns - 
+https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3
+
+Try, Exception, Else Statemetns - 
+https://www.pythontutorial.net/python-basics/python-try-except-else/
+
